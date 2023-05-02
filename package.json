@@ -1,0 +1,14 @@
+{
+  "name": "pick-your-poison",
+  "version": "1.0.0",
+  "description": "Choose y our own adventure story Progressive Web App for GitHub and Dev.to 2023 summer hackathon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric O'Brien",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha3"
+  }
+}
